@@ -1,5 +1,6 @@
-## 
-Ash | 21 | any pronouns 
+## Ash 
+21 | any pronouns 
+
 hi this is for the silly poni game
 
 <!--
