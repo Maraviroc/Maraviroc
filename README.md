@@ -2,6 +2,7 @@
 21 | any pronouns 
 
 hi this is for the silly poni game
+how i center the text
 
 <!--
 **Maraviroc/Maraviroc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
