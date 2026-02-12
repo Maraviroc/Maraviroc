@@ -1,5 +1,5 @@
 ### Ash 
-21 | any pronouns 
+21 | any pronouns | Eng/Spa
 
 hi this is for the silly poni game
 
