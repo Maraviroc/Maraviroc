@@ -1,10 +1,14 @@
-### Ash 
+<p align="center">
+Ash
+<p align="center">
 21 | any pronouns | Eng/Spa
+<p align="center">
+hi this is for the silly poni game
 
-_hi this is for the silly poni game_
+</p>
 
-#### how i center the text
-<
+
+
 <!--
 **Maraviroc/Maraviroc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
