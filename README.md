@@ -1,7 +1,7 @@
 ### Ash 
 21 | any pronouns | Eng/Spa
 
-hi this is for the silly poni game
+_hi this is for the silly poni game_
 
 #### how i center the text
 <
