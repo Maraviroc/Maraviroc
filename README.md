@@ -1,11 +1,11 @@
-<p align="center">
+<div align="center">
 Ash
-<p align="center">
+  <div align="center">
 21 | any pronouns | Eng/Spa
-<p align="center">
+    <div align="center">
 hi this is for the silly poni game
+</div>
 
-</p>
 
 
 
