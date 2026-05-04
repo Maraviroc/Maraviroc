@@ -4,6 +4,8 @@ Ash
 21 | Any pronouns | Eng/Spa
     <div align="center">
       mostly afk
+      <div align="center">
+      ⛧°。 ⋆༺♱༻⋆。 °⛧
 </div>
     
 <img src="https://file.garden/afJ6e9qJ7gfLH5Y1/16%20sin%20t%C3%ADtulo_20260504092825.png" width="450">
