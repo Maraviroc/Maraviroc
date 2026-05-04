@@ -6,7 +6,7 @@ Ash
       mostly afk
 </div>
     
-![image alt](https://github.com/Maraviroc/Maraviroc/blob/bf30d74f9d620c4f5ab6107fb2aa90d86bdfa09e/16%20sin%20t%C3%ADtulo_20260504092825.png)
+<img src="https://file.garden/afJ6e9qJ7gfLH5Y1/16%20sin%20t%C3%ADtulo_20260504092825.png" width="450">
 
 
 <!--
