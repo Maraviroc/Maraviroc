@@ -6,7 +6,7 @@ Ash
       mostly afk
 </div>
     
-![image alt](https://github.com/Maraviroc/Maraviroc/blob/c56c940e2630b608e61995847d4c535a197693c0/descarga-_3_%20(1)%20(1).jpg)
+![image alt](https://github.com/Maraviroc/Maraviroc/blob/bf30d74f9d620c4f5ab6107fb2aa90d86bdfa09e/16%20sin%20t%C3%ADtulo_20260504092825.png)
 
 
 <!--
